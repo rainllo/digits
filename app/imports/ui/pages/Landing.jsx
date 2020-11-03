@@ -23,7 +23,7 @@ class Landing extends React.Component {
             <Grid.Column textAlign='center'>
               <Icon size="huge" name="bell" inverted/>
               <Header as='h1' inverted>Quick Reminders</Header>
-              <Header as='h3' inverted>Every time you chat with someone you can make a note that summarizes your conversation.
+              <Header as='h3' inverted>Every time you chat with someone you can create a note that summarizes your conversation.
                 This note is saved with a timestamp alongside your contacts to remind you about your chat.</Header>
             </Grid.Column>
           </Grid>
